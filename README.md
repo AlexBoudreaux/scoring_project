@@ -1,6 +1,4 @@
-# Flutter and MongoDB Mini-Course solution | Contacts List App
-
-This is the solution for the [mini-course](https://youtu.be/juKDXPk7kU4) on YouTube. This runs for Flutter Mobile and Web.
+# Flutter and MongoDB Scoring Application
 
 ## Running the server
 
