@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:scoring_app/homePage.dart';
 import 'category.dart';
 
 class CategoriesListing extends StatelessWidget {
